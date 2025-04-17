@@ -28,7 +28,7 @@ Update the UI instantly after deleting a task
 
 ## Helpful Video / Resource
 
-[Insert YouTube]
+[https://youtu.be/0TykjdGTC1k]
 
 
 ## Database Keys
