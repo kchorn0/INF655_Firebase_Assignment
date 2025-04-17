@@ -5,7 +5,7 @@
 **Name:** Kyle Horn  
 **Course:** Web Development II | FHSU
 
-## 🧠 Project Overview
+## Project Overview
 Assignment Requirements
 
 Create a Firebase project
@@ -26,13 +26,12 @@ Allow users to delete tasks from Firestore
 Add a confirmation prompt before deletion
 Update the UI instantly after deleting a task
 
-## 📽️ Helpful Video / Resource
+## Helpful Video / Resource
 
 [Insert YouTube]
 
----
 
-## 🛠️ Database Keys
+## Database Keys
 
 Did not push to GitHub
 
